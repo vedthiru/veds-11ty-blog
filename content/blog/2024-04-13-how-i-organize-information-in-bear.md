@@ -64,7 +64,7 @@ So things like book lists, movies lists, mundane things like govt process refere
 #### 6. Zettels
 Atomic ideas. Any concept, idea of thought at the most atomic level. Like “Technology”, “Money”, “Design”, “Meditation”, etc. This will further be tagged on notes that I have created. Expanding from the above point, Zettels can have only content created by self, not by other people. Most likely ideas in this will link back to Journaling tag’s sub-tags. \
 \
-Here's a graphical representation of this organization: 
+Here's a graphical representation of this organization: \
 
 {% image "./assets/bear-notes-org-sketchnote.jpeg", "Bear tags example 2" %}
 

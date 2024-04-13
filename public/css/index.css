@@ -9,6 +9,7 @@
 	--color-gray-20: #e0e0e0;
 	--color-gray-50: #C0C0C0;
 	--color-gray-90: #333;
+	--hover-bg:  #e8e8e8;
 
 	--background-color: #fff;
 
@@ -25,6 +26,7 @@
 		--color-gray-20: #e0e0e0;
 		--color-gray-50: #C0C0C0;
 		--color-gray-90: #dad8d8;
+		--hover-bg: #000;
 
 		/* --text-color is assigned to --color-gray-_ above */
 		--text-color-link: #1493fb;
@@ -200,7 +202,7 @@ header {
 }
 
 .postlist-item:hover {
-    background: #e8e8e8;
+    background: var(--hover-bg);
 }
 
 .postlist-item {
