@@ -21,18 +21,18 @@ The comparison to a physical book is really what drives his point home. I can re
 
 It is problematic when our purchases are on their devices. A purchase means a right to take away. Taking away should be implicit. I’m sure all sorts of parallels can be drawn in every scenario. Just to understand other types of digital service models, let’s see some examples:
 
-### Some Digital services and their Real World Equivalents
+### Digital services and their Real World Equivalents
 
-**Cloud Storage**
+**Cloud Storage** \
 A cloud storage service does not and should not own our data. It’s like moving into a rented house. You move in, you take your stuff. Your stuff does not become the landlord’s property.
 
-**Video Subscriptions/OTTs**
+**Video Subscriptions/OTTs** \
 This can be thought of as using metro trains. You can get a monthly pass to use metros and other public transport. You own nothing from the service, not the chairs, the vending machines, nothing. The pass fare only gives you “access” with some limits. Same with the Netflixes and the Disney pluses. We buy a pass for access. We can’t take content away on our external storage.
 
-**Subscription platforms where we create**
+**Subscription platforms where we create** \
 Lets consider Notion. Notion can probably be compared to WeWork. We rent a space that enables us to get some work done. But we don’t leave our work behind in their physical buildings. Our work belongs to us. But Notion is setup in such a way that we do our work in their digital premises, and we leave it behind in their secure lockers. It’s like if WeWork said “You can rent our space, but you get to use ONLY our computers”. Sounds like Notion is a “Cyber/Internet Cafe” of the note taking world.
 
-**Paid Services**
+**Paid Services** \
 Like TurboTax. They’re like going to a barber shop. We go, ask the barber to cut our hair. The barber gets to keep our cut hair, and can do whatever they want with it. Just like Turbotax, we calculate returns, file taxes. Once taxes are filed, Turbotax can do whatever they want with our data. Right? Right?
 
 I gotta tell ya, for both examples, when I spelled it out like that it seemed a little odd. I’m gonna bring my cut hair back from the barber next time.

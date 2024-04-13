@@ -5,6 +5,7 @@ date: 2024-04-09
 tags:
   - TV Shows
   - Reviews
+slug: hijack-apple-tv
 ---
 {% image "./assets/Hijack Title Card.png", "Hijack Title Card" %}
 
@@ -31,4 +32,3 @@ Started watching: Sometime over the last couple of days\
 Finished watching: 08-Apr-2024\
 Date Reviewed: 08-Apr-2024
 ___
-[[This is a fifth post (draft)]]
