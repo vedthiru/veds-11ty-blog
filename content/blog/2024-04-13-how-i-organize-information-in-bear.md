@@ -57,14 +57,14 @@ Content I want to publish to my blog. Once published, they will change their tag
 #### 5. Resources
 Links, videos, inspirations, references. Just items that I can refer back to use later. This is different from Zettels (explained next).  \
 \
-*All content created by others will go into resources, this is not a place for self generated content*. \
+**All content created by others will go into resources, this is not a place for self generated content.** \
 \
 So things like book lists, movies lists, mundane things like govt process references, legal references, all go here. 
 
 #### 6. Zettels
 Atomic ideas. Any concept, idea of thought at the most atomic level. Like “Technology”, “Money”, “Design”, “Meditation”, etc. This will further be tagged on notes that I have created. Expanding from the above point, Zettels can have only content created by self, not by other people. Most likely ideas in this will link back to Journaling tag’s sub-tags. \
 \
-Here's a graphical representation of this organization: \
+Here's a graphical representation of this organization: 
 
 {% image "./assets/bear-notes-org-sketchnote.jpeg", "Bear tags example 2" %}
 
