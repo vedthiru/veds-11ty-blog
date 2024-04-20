@@ -4,7 +4,9 @@ description: ""
 date: 2024-04-20T13:21:35.624Z
 preview: ""
 draft: true
-tags: []
+tags:
+    - jobs
+    - work
 categories: []
 type: default
 ---
