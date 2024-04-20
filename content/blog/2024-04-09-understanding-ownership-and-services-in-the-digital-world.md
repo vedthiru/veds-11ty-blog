@@ -17,6 +17,10 @@ https://youtu.be/Ux7pdWFo7hY?si=S93NkDUHHlA59ULh
 
 Basically Amazon doesn’t let you take eBooks from one country to another. Amazon accounts are country locked. Rossman in the video makes the argument that when we buy physical books, it is not tied to the store we bought it in. Even though the language used to sell eBooks is “Purchasing”, it is tied to their storage and their ecosystem. You also cannot use their eBooks on your device of choice. It must be within their apps.
 
+
+## hello {.c-article-section__title}
+
+
 The comparison to a physical book is really what drives his point home. I can read a physical book wherever, however I want. Lend it, give it away to whoever I want. But the same is not possible with digital purchases across the board.
 
 It is problematic when our purchases are on their devices. A purchase means a right to take away. Taking away should be implicit. I’m sure all sorts of parallels can be drawn in every scenario. Just to understand other types of digital service models, let’s see some examples:

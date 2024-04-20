@@ -1,6 +1,6 @@
 /* Defaults */
 :root {
-	--font-family: "IBM Plex Mono", monospace;
+	--font-family: "Noto Sans", sans-serif;
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
@@ -72,6 +72,15 @@ iframe {
     border-radius: 16px;
 }
 
+blockquote {
+    border-left: 4px solid #66d9ef;
+    margin: 30px 0 30px 0px;
+    padding-left: 1rem;
+    font-style: italic;
+    font-weight: 500;
+    color: black;
+}
+
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
 .visually-hidden {
 	clip: rect(0 0 0 0);
@@ -92,7 +101,7 @@ p:last-child {
 	margin-bottom: 0;
 }
 p {
-	line-height: 1.5;
+	line-height: 1.8;
 }
 
 li {
@@ -387,7 +396,7 @@ a.postlist-link.postlist-item:hover:after {
 /* --------- Post or article content styles ---------- */
 
 .post-content {
-    font-size: 1rem;
+    font-size: 1.1rem;
     margin-top: 3rem;
 }
 

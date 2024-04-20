@@ -10,6 +10,15 @@ const embedYouTube = require("eleventy-plugin-youtube-embed");
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
 const eleventyPluginInterlinker = require('@photogabble/eleventy-plugin-interlinker');
+const markdownIt = require('markdown-it');
+const markdownItAttrs = require('markdown-it-attrs');
+const markdownItOptions = {
+	html: true,
+	breaks: true,
+	linkify: true
+  };  
+const markdownLib = markdownIt(markdownItOptions).use(markdownItAttrs);
+
 module.exports = function(eleventyConfig) {
 	// Copy the contents of the `public` folder to the output folder
 	// For example, `./public/css/` ends up in `_site/css/`
@@ -78,6 +87,12 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
+
+	// markdown attr plugin config
+	eleventyConfig.setLibrary('md', markdownLib);
+
+	// Adding custom shortcodes - so that I can enter 'tag' in nanjucks format and have a 'div' show up with a class
+	eleventyConfig.addPairedShortcode('blockquote', (children) => `<div class="block-quote">${children}</div>`);
 
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
