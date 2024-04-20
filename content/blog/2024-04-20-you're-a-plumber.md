@@ -28,4 +28,4 @@ Any place where money is involved, you lose some autonomy. There is an expectati
 ## Is there a way to make it better?
 I could only find and try solutions at an individual level. The one thing that has worked great for me is to **start an interesting side gig without any expectation of money**. This is probably the reason many software developers contribute to open source projects, or others take up an interest in social causes. Hell, we could even take up gaming as our side gig. 
 
-As long as money is involved, do not have the expectation of autonomy==. If you have such a thing, that’s great. But most of us are no different than plumbers. The shit pipes are often blocked, so we shovel the shit for money. Then we go home and try to do something different. 
+As long as money is involved, do not have the expectation of autonomy. If you have such a thing, that’s great. But most of us are no different than plumbers. The shit pipes are often blocked, so we shovel the shit for money. Then we go home and try to do something different. 
