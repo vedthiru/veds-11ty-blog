@@ -4,8 +4,7 @@ layout: layouts/base.njk
 {# Only include the syntax highlighter CSS on blog posts #}
 {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
 {%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
-<h1>{{ title }}</h1>
- <hr>
+<h1 id="post-title">{{ title }}</h1>
 <div class="post-metadata">
 	<div class="post-metadata-left"><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></div>
     <div class="post-metadata-right">
@@ -15,8 +14,7 @@ layout: layouts/base.njk
         {%- endfor %}
     </div>
 </div>
-<hr>
-<div class="post-content noto-sans-400">
+<div class="post-content">
 {{ content | safe }}
 </div>
 
