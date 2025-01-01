@@ -12,3 +12,4 @@ categories:
 type: default
 ---
 First lets try to publish this post.
+- update - i tried to move this folder to icloud, lets see if git sync still works
