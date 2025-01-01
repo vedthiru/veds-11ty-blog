@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/Using Obsidian with 11ty.md",
+                "file": "content/blog/2025-01-01-using-obsidian-with-11ty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Using Obsidian with 11ty"
+              "title": "2025-01-01-using-obsidian-with-11ty"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/Using Obsidian with 11ty.md",
+                "file": "content/blog/2025-01-01-using-obsidian-with-11ty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Using Obsidian with 11ty"
+              "title": "Backlinks for 2025-01-01-using-obsidian-with-11ty"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/Using Obsidian with 11ty.md"
+                "file": "content/blog/2025-01-01-using-obsidian-with-11ty.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Using Obsidian with 11ty"
+              "title": "Outline of 2025-01-01-using-obsidian-with-11ty"
             }
           }
         ],
@@ -164,10 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bba1edfe75c9509d",
+  "active": "5325add6a47af27b",
   "lastOpenFiles": [
-    "content/blog/Using Obsidian with 11ty.md",
-    "obsidian_templates/new-post-template.md",
+    "content/blog/Untitled.md",
+    "content/blog/2025-01-01-using-obsidian-with-11ty.md",
+    "obsidian_templates/{{date}}-new-post-template.md",
     "content/blog/2024-04-09-understanding-ownership-and-services-in-the-digital-world.md",
     "obsidian_templates"
   ]
