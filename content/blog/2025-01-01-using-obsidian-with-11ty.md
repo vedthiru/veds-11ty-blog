@@ -52,7 +52,8 @@ This post is just going to be a log of events along with my thoughts. Nothing pr
 - Now, open the 11ty blog as a vault in Obsidian
 - In Obsidian settings > Files and Links > Folder to create new notes : point it to content/blog
 - Add markdown frontmatter to every post from an Obsidian Template: create a template with front matter tags like this
-```
+```js
+
 ---
 title: My post
 date: 2020-02-23
@@ -60,7 +61,9 @@ published: true
 tags:
 - Tag 1
 - Tag2
+
 ---
+
 ```
 - Install the plugin "Templater" on Obsidian, and set it up to use this frontmatter template for every new file
 - Also install a Github Plugin on Obsidian, so you can publish with a git push via the plugin
