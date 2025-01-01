@@ -45,6 +45,8 @@ This post is just going to be a log of events along with my thoughts. Nothing pr
 
 #### How I'm doing this now OR How to publish to your 11ty blog from Obsidian
 
+![[Screenshot 2025-01-01 at 7.55.52 PM.png]]
+
 **NOTE: I'm assuming some basic Obsidian and 11ty knowledge**
 
 - Create a blog with 11ty using any of the many methods available
@@ -53,7 +55,6 @@ This post is just going to be a log of events along with my thoughts. Nothing pr
 - In Obsidian settings > Files and Links > Folder to create new notes : point it to content/blog
 - Add markdown frontmatter to every post from an Obsidian Template: create a template with front matter tags like this
 ```js
-
 ---
 title: My post
 date: 2020-02-23
@@ -63,7 +64,6 @@ tags:
 - Tag2
 
 ---
-
 ```
 - Install the plugin "Templater" on Obsidian, and set it up to use this frontmatter template for every new file
 - Also install a Github Plugin on Obsidian, so you can publish with a git push via the plugin
