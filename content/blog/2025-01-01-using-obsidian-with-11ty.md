@@ -45,7 +45,7 @@ This post is just going to be a log of events along with my thoughts. Nothing pr
 
 #### How I'm doing this now OR How to publish to your 11ty blog from Obsidian
 
-![[Screenshot 2025-01-01 at 7.55.52 PM.png]]
+{% image "./assets/Screenshot 2025-01-01 at 7.55.52 PM.png", "Screenshot of my current obsidian setup" %}
 
 **NOTE: I'm assuming some basic Obsidian and 11ty knowledge**
 

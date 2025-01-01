@@ -1,0 +1,1 @@
+{% image "./assets/<file-name>", "<alt-text>" %}
