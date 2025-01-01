@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "Border",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Menlo"
+}

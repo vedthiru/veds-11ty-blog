@@ -1,4 +1,6 @@
 [
   "github-sync",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-style-settings",
+  "obsidian-minimal-settings"
 ]
