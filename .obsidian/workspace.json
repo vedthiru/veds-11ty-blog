@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "99dd958648528b1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "47984953384062a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5325add6a47af27b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian_templates/new-post-template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "new-post-template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5515ddec7893c23",
+    "type": "split",
+    "children": [
+      {
+        "id": "b599ed925a5dc38f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f0403c9a71c53a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d599d949854a3751",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fec2a2fd75854c84",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78506a3e145c1115",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcdb250aeca9e4a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e1f540e23dfec16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian_templates/new-post-template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for new-post-template"
+            }
+          },
+          {
+            "id": "a92e32d37fc66da2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian_templates/new-post-template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from new-post-template"
+            }
+          },
+          {
+            "id": "28b2a7d03ac5abfc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bba1edfe75c9509d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian_templates/new-post-template.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of new-post-template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0f0403c9a71c53a5",
+  "lastOpenFiles": [
+    "content/blog/2024-04-09-understanding-ownership-and-services-in-the-digital-world.md",
+    "obsidian_templates/new-post-template.md",
+    "obsidian_templates"
+  ]
+}
