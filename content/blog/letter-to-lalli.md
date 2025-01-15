@@ -55,7 +55,7 @@ Love you and Proud of you,
 Yours,
 Ved
 
-Written in Chikkalasandra, Bengaluru at 1:16 PM
-Weather: 26 C and cloudy. 
+📍 Written in Chikkalasandra, Bengaluru at 1:16 PM
+⛅️ Weather: 26 C and cloudy. 
 
 ___
