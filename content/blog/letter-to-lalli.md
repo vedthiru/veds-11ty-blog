@@ -35,7 +35,7 @@ ___
 ### Little notes
 Also wanted to remind you these little notes you may find useful.
 
-- You’re not new to office jobs so it’s no big deal. You’ve worked for more than a decade, handled difficult and boring situations. This will be no different. ==You got this.== 
+- You’re not new to office jobs so it’s no big deal. You’ve worked for more than a decade, handled difficult and boring situations. This will be no different. **You got this.**
 - Slow down, be methodical, make plenty of notes.
 - Read slowly, read deeply, make plenty of notes.
 - Slow, detailed work trumps fast work in the long run.
