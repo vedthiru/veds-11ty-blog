@@ -196,15 +196,13 @@ code {
 /* Header */
 header {
 	display: flex;
-    gap: 1em .5em;
     flex-wrap: wrap;
     align-items: center;
     padding: 1em 4em;
 }
 .home-link {
-	font-size: 1em; /* 16px /16 */
+	font-size: 1em;
 	font-weight: 700;
-	margin-right: 2em;
 }
 .home-link:link:not(:hover) {
 	text-decoration: none;
@@ -226,8 +224,18 @@ header {
 	color:var(--text-color);
 }
 .nav a[href][aria-current="page"] {
-	text-decoration: underline;
+/*	text-decoration: underline;*/
 }
+
+a.home-link {
+    width: 50%;
+}
+
+header > nav{
+	 width: 50%;
+    justify-items: end;
+}
+
 
 /* ---------- Posts list ------------- */
 
@@ -260,6 +268,7 @@ a.postlist-link {
 	display: block;
     text-decoration: none;
     width: 100%;
+    color: var(--text-color);
 }
 
 /* bring up an arrow on post list hover */
@@ -371,6 +380,13 @@ a.postlist-link.postlist-item:hover:after {
 		width: 100%;
 		row-gap: 0.5rem;
 	}
+
+	header {
+	    display: flex;
+	    flex-wrap: wrap;
+	    align-items: center;
+	    padding: 1em 1em;
+	}
 	
 	.post-metadata-left{
 		width: 100%;
@@ -418,7 +434,7 @@ a.postlist-link.postlist-item:hover:after {
 /* --------- Post or article content styles ---------- */
 
 .post-content {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     margin-top: 3rem;
 }
 
